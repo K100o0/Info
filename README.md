@@ -1,5 +1,4 @@
 # Info
-<body>
 
 <header>
     <h1>Kmilo Gz Personal Webpage</h1>
